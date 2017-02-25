@@ -8,6 +8,7 @@
   <name>seckill Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+	  <!--test-->
     <!--修改版本为juint4 默认是以注解的方式 -->
     <dependency>
       <groupId>junit</groupId>
